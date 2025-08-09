@@ -1,0 +1,15 @@
+.score-container {
+  background-color: #f0f8ff;
+  padding: 20px;
+  margin: 50px auto;
+  border: 2px solid #87cefa;
+  border-radius: 10px;
+  width: 400px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.average {
+  font-size: 18px;
+  color: green;
+}
